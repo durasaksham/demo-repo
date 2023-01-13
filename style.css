@@ -1,0 +1,18 @@
+body{
+    font: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+    top: 20%;
+    background: linear-gradient(to right, red,yellow);
+}
+h1{
+    font: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+}
+h2{
+    
+    font: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+}
