@@ -1,3 +1,3 @@
 # demo-repo
-First Sample Repo
+Sample Repo
 Creating background gradient using DOM
